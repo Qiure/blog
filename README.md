@@ -1,2 +1,1 @@
-# blog
-Issues Blog
+### [Issues Blog](https://github.com/redQue/blog/issues)
